@@ -62,7 +62,7 @@ try:
       # write lnd data      
       for row_num, row_data in enumerate(ws_lnd_data):
         for col_num, col_data in enumerate(row_data):
-          ws_lnd.write(row_num, col_num, col_data)
+          ws_lnd.write(row_num + 1, col_num, col_data)
       
       # create header in raw
       row = 0
@@ -75,7 +75,7 @@ try:
       # write raw data      
       for row_num, row_data in enumerate(ws_raw_data):
         for col_num, col_data in enumerate(row_data):
-          ws_raw.write(row_num, col_num, col_data)
+          ws_raw.write(row_num + 1, col_num, col_data)
       
       wb.close()
       
