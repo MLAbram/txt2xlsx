@@ -1,0 +1,11 @@
+file_id	first_name_txt	last_name_txt	dob_dt	int_int	num_num
+1	Yorgo	Desson	2010-01-26	999	483.61
+2	Jacques	Lea	2018-01-18	98	217.97
+3	Koral	Haugh	2012-07-01	82	532.8
+4	Kissee	Espin	2005-05-13	144	356.25
+5	Theodora	Dumbrill	2019-02-23	506	771.74
+6	Berthe	Thake	2008-09-08	526	371.36
+7	Rubie	Fetter	2009-03-14	795	377.48
+8	Malissia	Bradder	2019-11-28	982	562.04
+9	Kania	Fulleylove	2014-12-05	273	946.24
+10	Jaimie	Purdon	2018-09-18	64	202.2
